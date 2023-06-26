@@ -13,7 +13,6 @@ Source API Data from:
 - v4 - Local Application - Cron job (linux (shell script) & window (bash script) version and Terminal menu options w/ commandline arguments 
 - v5 - Software Architecture pattern update (OOP & code packaging - folders, function daisy chaining) and Dependecy injection for decoupling on small scale.   
 - v6 - Make a frontend UI consumer to interact with backend (SQL & Flaskapp) and embedded analytics (GeoJson/ Shapefiles)
-- 
 - v7 - deploy as cloud app (example) w/ Heroku, digital ocean, or vercel.  
 
 
