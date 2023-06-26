@@ -5,11 +5,11 @@
 [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
 
 ### Project Plans:  
-#### v1 - Rick n Morty - Data Engineering project: ETL pipeline development Bulk file loading to postgres/sqlite db.
-#### v2 - following with incremental loads, CDC. 
+- v1 - Rick n Morty - Data Engineering project: ETL pipeline development Bulk file loading to postgres/sqlite db.
+- v2 - following with incremental loads, CDC. 
 
-#### v3 - Application Cron and Terminal menu 
+- v3 - Application Cron and Terminal menu 
 
-#### v4 - Software Architecture pattern update (OOP & code packaging) and Dependecy injection for decoupling on small scale. 
+- v4 - Software Architecture pattern update (OOP & code packaging) and Dependecy injection for decoupling on small scale. 
 
 
